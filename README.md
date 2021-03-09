@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on <a href="https://github.com/ZonixOfficial">@Zonix</a>
+- 🔭 I’m currently working on <a href="https://github.com/FreddieJLH">nothing</a>
 
 ### Languages and Tools:
 <p><a href="https://www.java.com" rel="nofollow"><img align="left" alt="Java" width="26px" src="https://i.ibb.co/cFPfrnQ/java.png" style="max-width:100%;"></a>
